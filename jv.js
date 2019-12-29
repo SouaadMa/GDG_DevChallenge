@@ -45,7 +45,7 @@ var x = setInterval(function() {
     var slideIndex = 0;
     //Hide the countdown
     y=document.getElementsByClassName("Countdown");
-    document.getElementById("body").style.background = "url(gifs/gif6.gif)";
+    document.getElementById("body").style.background = "url(gif6.gif)";
     for(j=0; j<y.length; j++)
     {
       y[j].style.display = "none";
